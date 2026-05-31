@@ -77,8 +77,6 @@ Based on the convergence of the statistical tests, the features below have been 
 
 ## 🧑‍🔬 Author & Candidate Profile
 * **Name:** Abu Omayed
-* **Position Applied For:** Research Engineer (Data Science)
-* **Target Institution:** International Research Center (IR_IRC), United International University (UIU)
 * **ORCID:** [0009-0006-1607-7979](https://orcid.org/0009-0006-1607-7979)
 * **LinkedIn:** [linkedin.com/in/abu-omayed](https://www.linkedin.com/in/abu-omayed/)
 * **GitHub:** [github.com/AbuOmayed](https://github.com/AbuOmayed)
