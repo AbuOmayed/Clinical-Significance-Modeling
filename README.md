@@ -74,6 +74,15 @@ Based on the convergence of the statistical tests, the features below have been 
 * **Hypertension Diagnostic Matrix (`profile_hypertensive`):** `age`, `total_income`, `SYSTOLIC`, `DIASTOLIC`, `PULSE_RATE`, `union_name`, `has_cardiovascular_disease`, `diabetic`.
 
 ---
+## 🚀 Installation & Setup
+
+To clone and run this project locally, execute the following commands in your terminal:
+
+```bash
+git clone https://github.com/AbuOmayed/Clinical-Significance-Modeling.git
+```
+
+---
 
 ## 🧑‍🔬 Author & Candidate Profile
 * **Name:** Abu Omayed
