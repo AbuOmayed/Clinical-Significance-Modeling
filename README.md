@@ -1,7 +1,6 @@
 # Biostatistical Significance Analysis & Clinical Outcome Modeling on Regional NCD Datasets
 
 ## 📌 Project Overview
-This repository contains the end-to-end quantitative biostatistical pipeline engineered as part of the technical selection process for the **Research Engineer (Data Science)** position at the **Institute for Advanced Research (IAR) / International Research Center (IR_IRC), United International University (UIU)**.
 
 The primary objective of this analysis is to evaluate an empirical public health dataset ($N = 29,999$ unique clinical records) across rural geographic cohorts to identify, isolate, and validate key demographic, socioeconomic, and physiological risk factors underlying major Non-Communicable Diseases (NCDs): **Stroke (`had_stroke`), Cardiovascular Disease (`has_cardiovascular_disease`), Diabetes (`diabetic`), and Hypertension (`profile_hypertensive`)**.
 
